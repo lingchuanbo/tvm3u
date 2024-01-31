@@ -1,142 +1,129 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://nbahd.live/dm.jpg" group-title="凡是从闲鱼倒卖狗那购买的，出问题后果自负！",本源唯一订购方式:QQ:782896814/官方直播站:NBAHD.live
+#EXTINF:-1 tvg-logo="https://nbahd.live/dm.jpg" group-title="⚠凡是从闲鱼倒卖狗那购买的，出问题后果自负！",⚠本源唯一订购方式 QQ:782896814
 https://nbahd.live/dm.jpg
 
-#EXTINF:-1 tvg-id="nbahd.live" tvg-logo="https://nbahd.live/nbalp.jpg" group-title="独家leaguepass官方源:nbahd.live",独家leaguepass官方源:nbahd.live
+#EXTINF:-1 tvg-id="nbahd.live" tvg-logo="https://nbahd.live/nbalp.jpg" group-title="🏀独家leaguepass官方源直播:nbahd.live",🏀独家leaguepass官方源直播:nbahd.live
 https://nbahd.live/nbalp.jpg
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",03:00 腾讯NBA 雷霆vs活塞 王嘉琦
-https://livednow.com/tencent/100000:56377028/278015/1762177700?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",03:00 腾讯NBA 雷霆vs活塞 英文原声
-https://livednow.com/tencent/100000:56377028/278015/1762177800?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",04:30 腾讯NBA 灰熊vs步行者 石楷文
-https://livednow.com/tencent/100000:56377026/278013/1377207800?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",04:30 腾讯NBA 灰熊vs步行者 英文原声
-https://livednow.com/tencent/100000:56377026/278013/1377207900?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",07:00 腾讯NBA 猛龙vs老鹰 寇逸豪
-https://livednow.com/tencent/100000:56377027/278014/1762178500?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",07:00 腾讯NBA 猛龙vs老鹰 英文原声
-https://livednow.com/tencent/100000:56377027/278014/1377208500?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",07:00 腾讯NBA 太阳vs魔术 王猛 李克 雪儿
-https://livednow.com/tencent/100000:56377029/278016/1762178300?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",07:00 腾讯NBA 太阳vs魔术 英文原声
-https://livednow.com/tencent/100000:56377029/278016/1377208000?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",10:00 腾讯NBA 公牛vs开拓者 彭磊 沈知渝 笙笙
-https://livednow.com/tencent/100000:56377030/278017/1377208900?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",10:00 腾讯NBA 公牛vs开拓者 英文原声
-https://livednow.com/tencent/100000:56377030/278017/1377209000?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 湖人vs老鹰 段冉 曾令旭 笑歌
+https://livednow.com/tencent/100000:56377043/278132/1762206600?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 湖人vs老鹰 二路-Big胖
+https://livednow.com/tencent/100000:56377043/278132/1762206700?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 湖人vs老鹰 英文原声
+https://livednow.com/tencent/100000:56377043/278132/1762206800?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 步行者vs凯尔特人 王兆丰
+https://livednow.com/tencent/100000:56377044/278131/1762206900?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 步行者vs凯尔特人 英文原声
+https://livednow.com/tencent/100000:56377044/278131/1762207000?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 爵士vs尼克斯 刘乘源
+https://livednow.com/tencent/100000:56377045/278133/1377235000?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",08:30 腾讯NBA 爵士vs尼克斯 英文原声
+https://livednow.com/tencent/100000:56377045/278133/1377235100?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",09:00 腾讯NBA 猛龙vs公牛 孔祥宇
+https://livednow.com/tencent/100000:56377046/278134/1762207100?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",09:00 腾讯NBA 猛龙vs公牛 英文原声
+https://livednow.com/tencent/100000:56377046/278134/1762207200?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",11:00 腾讯NBA 76人vs勇士 柯凡 殳海 辰辰
+https://livednow.com/tencent/100000:56377047/278135/1762207300?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",11:00 腾讯NBA 76人vs勇士 二路-皓篮球
+https://livednow.com/tencent/100000:56377047/278135/1762207400?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="腾讯NBA",11:00 腾讯NBA 76人vs勇士 英文原声
+https://livednow.com/tencent/100000:56377047/278135/1762207500?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
 
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",02:55 NBA常规赛 活塞vs雷霆 解说
-https://livednow.com/migu/897988648?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",04:25 NBA常规赛 步行者vs灰熊 解说
-https://livednow.com/migu/897989089?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",06:55 NBA常规赛 老鹰vs猛龙 解说
-https://livednow.com/migu/897988229?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",06:55 NBA常规赛 魔术vs太阳 解说
-https://livednow.com/migu/897990153?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",06:55 NBA常规赛 魔术vs太阳 英文原声
-https://livednow.com/migu/897989678?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",09:55 NBA常规赛 开拓者vs公牛 解说
-https://livednow.com/migu/897990956?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",09:55 NBA常规赛 开拓者vs公牛 英文原声
-https://livednow.com/migu/897990733?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:25 NBA常规赛 尼克斯vs爵士 解说
+https://livednow.com/migu/898708657?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:15 NBA常规赛 老鹰vs湖人 解说
+https://livednow.com/migu/898708028?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:15 NBA常规赛 老鹰vs湖人 湖人
+https://livednow.com/migu/898708140?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:15 NBA常规赛 老鹰vs湖人 原声
+https://livednow.com/migu/898708211?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:15 NBA常规赛 凯尔特人vs步行者 解说
+https://livednow.com/migu/898708497?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",08:55 NBA常规赛 公牛vs猛龙 解说
+https://livednow.com/migu/898708780?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",10:45 NBA常规赛 勇士vs76人 解说
+https://livednow.com/migu/898709063?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",10:45 NBA常规赛 勇士vs76人 勇士
+https://livednow.com/migu/898709123?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",10:45 NBA常规赛 勇士vs76人 原声
+https://livednow.com/migu/898709228?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",10:45 NBA常规赛 勇士vs76人 粤语
+https://livednow.com/migu/898709292?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="咪咕NBA",10:45 NBA常规赛 勇士vs76人 闽南语
+https://livednow.com/migu/898709355?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100005.png" group-title="NFL季后赛",04:00 NFL季后赛 酋长vs乌鸦 邢天宇 罗森
-https://livednow.com/tencent/100005:2100846743/277851/1762141600?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100005.png" group-title="NFL季后赛",04:00 NFL季后赛 酋长vs乌鸦 英文原声
-https://livednow.com/tencent/100005:2100846743/277851/1377164800?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100005.png" group-title="NFL季后赛",07:30 NFL季后赛 雄狮vs49人 傅皓南 萧深
-https://livednow.com/tencent/100005:2100846744/277852/1377164900?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100005.png" group-title="NFL季后赛",07:30 NFL季后赛 雄狮vs49人 英文原声
-https://livednow.com/tencent/100005:2100846744/277852/1762141700?main_login=qq&vqq_appid=101481799&vqq_openid=E86B452C46C8851E28AB8A3F03B9867E&vqq_access_token=BFDAAA4AC363DE1EB8ABCE6118EF0A3C
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第37轮 江苏肯帝亚vs新疆伊力特 解说
+https://livednow.com/migu/898706645?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第37轮 江苏肯帝亚vs新疆伊力特 江苏
+https://livednow.com/migu/898706380?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第37轮 江苏肯帝亚vs新疆伊力特 新疆
+https://livednow.com/migu/898706296?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第37轮 江苏肯帝亚vs新疆伊力特 原声
+https://livednow.com/migu/898706198?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 北京北汽vs浙江东阳光药 解说
+https://livednow.com/migu/898698303?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 北京北汽vs浙江东阳光药 原声
+https://livednow.com/migu/898698163?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 深圳马可波罗vs山西汾酒 解说
+https://livednow.com/migu/898699213?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 深圳马可波罗vs山西汾酒 深圳
+https://livednow.com/migu/898699123?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 深圳马可波罗vs山西汾酒 山西
+https://livednow.com/migu/898698906?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 深圳马可波罗vs山西汾酒 原声
+https://livednow.com/migu/898698636?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:00 CBA常规赛第37轮 辽宁本钢vs山东高速 解说
+https://livednow.com/migu/898697545?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:00 CBA常规赛第37轮 辽宁本钢vs山东高速 辽宁
+https://livednow.com/migu/898697259?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:00 CBA常规赛第37轮 辽宁本钢vs山东高速 山东
+https://livednow.com/migu/898697128?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:00 CBA常规赛第37轮 辽宁本钢vs山东高速 原声
+https://livednow.com/migu/898696701?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 福建浔兴股份vs四川金强 解说
+https://livednow.com/migu/898697921?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第37轮 福建浔兴股份vs四川金强 原声
+https://livednow.com/migu/898697725?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL",20:00 KPL常规赛第一轮 武汉eStarProvs重庆狼队 官方解说
+https://livednow.com/migu/899116256?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL",2024KPL春季赛常规赛：武汉eStarPro vs 重庆狼队（清流）
+https://livednow.com/migu/899116390?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 辽宁本钢vs上海久事 解说
-https://livednow.com/migu/897905064?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 辽宁本钢vs上海久事 辽宁
-https://livednow.com/migu/897905343?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 辽宁本钢vs上海久事 上海
-https://livednow.com/migu/897905475?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 辽宁本钢vs上海久事 现场原声
-https://livednow.com/migu/897904797?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 山东高速vs江苏肯帝亚 解说
-https://livednow.com/migu/897901268?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 山东高速vs江苏肯帝亚 山东
-https://livednow.com/migu/897901521?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 山东高速vs江苏肯帝亚 江苏
-https://livednow.com/migu/897901657?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 山东高速vs江苏肯帝亚 现场原声
-https://livednow.com/migu/897901860?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 北京北汽vs浙江稠州金租 解说
-https://livednow.com/migu/897902958?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 北京北汽vs浙江稠州金租 北京
-https://livednow.com/migu/897903166?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 北京北汽vs浙江稠州金租 浙江
-https://livednow.com/migu/897903288?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 北京北汽vs浙江稠州金租 现场原声
-https://livednow.com/migu/897903415?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 深圳马可波罗vs福建浔兴股份 解说
-https://livednow.com/migu/897903557?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 深圳马可波罗vs福建浔兴股份 深圳
-https://livednow.com/migu/897903708?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 深圳马可波罗vs福建浔兴股份 福建
-https://livednow.com/migu/897903842?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 深圳马可波罗vs福建浔兴股份 现场原声
-https://livednow.com/migu/897903938?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 宁波町渥vs广州龙狮 解说
-https://livednow.com/migu/897904098?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 宁波町渥vs广州龙狮 宁波
-https://livednow.com/migu/897904260?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 宁波町渥vs广州龙狮 广州
-https://livednow.com/migu/897904361?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 宁波町渥vs广州龙狮 现场原声
-https://livednow.com/migu/897904461?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 青岛国信水产vs新疆伊力特 解说
-https://livednow.com/migu/897898909?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 青岛国信水产vs新疆伊力特 青岛
-https://livednow.com/migu/897900548?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:15 CBA常规赛第36轮 青岛国信水产vs新疆伊力特 现场原声
-https://livednow.com/migu/897901056?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 四川金强vs山西汾酒 解说
-https://livednow.com/migu/897902028?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 四川金强vs山西汾酒 四川
-https://livednow.com/migu/897902236?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 四川金强vs山西汾酒 山西
-https://livednow.com/migu/897902466?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",19:25 CBA常规赛第36轮 四川金强vs山西汾酒 现场原声
-https://livednow.com/migu/897902610?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 解说
+https://livednow.com/migu/898778017?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 解说
+https://livednow.com/migu/898777805?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 粤语
+https://livednow.com/migu/898772622?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 闽南语
+https://livednow.com/migu/898771575?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 AI字幕
+https://livednow.com/migu/898778263?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 AVS3
+https://livednow.com/migu/898778575?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 清流
+https://livednow.com/migu/898770659?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 粤语字幕
+https://livednow.com/migu/898772406?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 巴林vs日本 闽南字幕
+https://livednow.com/migu/898771271?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 解说
-https://livednow.com/migu/898771579?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 解说
-https://livednow.com/migu/898771937?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 解说
-https://livednow.com/migu/898772286?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 粤语
-https://livednow.com/migu/898772455?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 AI字幕
-https://livednow.com/migu/898773442?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 清流
-https://livednow.com/migu/898771007?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/11/141068cd0a.png" group-title="亚洲杯",19:00 亚洲杯1/8决赛 伊拉克vs约旦 粤语字幕
-https://livednow.com/migu/898772976?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",03:20 英超联赛 诺丁汉森林vs阿森纳 解说
+https://livednow.com/migu/898458950?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",03:35 英超联赛 富勒姆vs埃弗顿 解说
+https://livednow.com/migu/898459235?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",03:35 英超联赛 卢顿vs布莱顿 解说
+https://livednow.com/migu/898459361?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/31/1000000010331060a03d.png" group-title="德国杯",03:35 德国杯四分之一决赛 圣保利vs杜塞尔多夫 解说
+https://livednow.com/migu/898446305?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",03:50 英超联赛 水晶宫vs谢菲尔德联 解说
+https://livednow.com/migu/898459487?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",04:00 英超联赛 阿斯顿维拉vs纽卡斯尔联 解说
+https://livednow.com/migu/898459615?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
 
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/22/6D0BEVGVTF1R.png" group-title="法甲",23:55 法甲联赛 图卢兹vs朗斯 解说
-https://livednow.com/migu/898445351?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",00:15 德甲联赛 多特蒙德vs波鸿 解说
-https://livednow.com/migu/898454018?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",00:45 意甲联赛 拉齐奥vs那不勒斯 解说
-https://livednow.com/migu/898455236?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",01:20 西甲联赛 塞维利亚vs奥萨苏纳 解说
-https://livednow.com/migu/898452795?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/22/6D0BEVGVTF1R.png" group-title="法甲",03:30 法甲联赛 巴黎圣日耳曼vs布雷斯特 解说
-https://livednow.com/migu/898445894?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",03:30 意甲联赛 佛罗伦萨vs国际米兰 解说
-https://livednow.com/migu/898455611?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",03:45 西甲联赛 马德里竞技vs瓦伦西亚 解说
-https://livednow.com/migu/898453214?id=303687266&token=nlps7FD4A0AE8C57A96BD97F
-
-#EXTINF:-1 tvg-id="CCTV5超清V6源" tvg-logo="https://nbahd.live/logo/CCTV5.png" group-title="CCTV5",CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5超清" tvg-logo="https://nbahd.live/logo/CCTV5.png" group-title="CCTV5",CCTV5
+https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
 
 #EXTINF:-1 tvg-id="纬来体育高清" tvg-logo="https://nbahd.live/logo/wlhd.png" group-title="纬来体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
