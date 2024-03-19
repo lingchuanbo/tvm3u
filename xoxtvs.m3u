@@ -1,0 +1,679 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 group-title="HK",無線新聞1
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=807
+#EXTINF:-1 group-title="HK",無線新聞2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=824
+#EXTINF:-1 group-title="HK",翡翠臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=809
+#EXTINF:-1 group-title="HK",翡翠臺2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=810
+#EXTINF:-1 group-title="HK",NOW新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=808
+#EXTINF:-1 group-title="HK",HOY資訊臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=827
+#EXTINF:-1 group-title="HK",HOY TV
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=828
+#EXTINF:-1 group-title="HK",HOY國際財經臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3153
+#EXTINF:-1 group-title="HK",鳳凰資訊
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=804
+#EXTINF:-1 group-title="HK",鳳凰中文
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=803
+#EXTINF:-1 group-title="HK",鳳凰香港
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=805
+#EXTINF:-1 group-title="HK",NOW星影臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=881
+#EXTINF:-1 group-title="HK",NOW爆谷臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=880
+#EXTINF:-1 group-title="HK",美亞電影-港版
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=862
+#EXTINF:-1 group-title="HK",美亞電影-臺版
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2143
+#EXTINF:-1 group-title="HK",HBO-好萊塢
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=786
+#EXTINF:-1 group-title="HK",HBO-強檔鉅獻
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=787
+#EXTINF:-1 group-title="HK",HBO-signature
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2209
+#EXTINF:-1 group-title="HK",Cinemax電影
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=790
+#EXTINF:-1 group-title="HK",Lifetime娛樂頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3137
+#EXTINF:-1 group-title="HK",ROCK Entertainment
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3138
+#EXTINF:-1 group-title="HK",ROCK Action
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3139
+#EXTINF:-1 group-title="HK",AMC最愛電影
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2180
+#EXTINF:-1 group-title="HK",好萊塢電影
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2132
+#EXTINF:-1 group-title="HK",龍祥時代
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2141
+#EXTINF:-1 group-title="HK",Dreamwork夢工廠動畫
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3159
+#EXTINF:-1 group-title="HK",TVB娛樂新聞臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=802
+#EXTINF:-1 group-title="HK",TVB星河
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=863
+#EXTINF:-1 group-title="HK",TVB經典臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=878
+#EXTINF:-1 group-title="HK",TVB經典臺2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=778
+#EXTINF:-1 group-title="HK",TVB華語劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3127
+#EXTINF:-1 group-title="HK",TVB粵語臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3128
+#EXTINF:-1 group-title="HK",TVB亞洲劇臺直播
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3152
+#EXTINF:-1 group-title="HK",TVB黃金翡翠臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3129
+#EXTINF:-1 group-title="HK",TVB黃金華劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3130
+#EXTINF:-1 group-title="HK",Viutv
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=811
+#EXTINF:-1 group-title="HK",J2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=819
+#EXTINF:-1 group-title="HK",無線財經體育
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=817
+#EXTINF:-1 group-title="HK",18臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3131
+#EXTINF:-1 group-title="HK",NOW-668
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3123
+#EXTINF:-1 group-title="HK",明珠臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=820
+#EXTINF:-1 group-title="HK",Now 財經臺直播
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3101
+#EXTINF:-1 group-title="HK",Now新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3102
+#EXTINF:-1 group-title="HK",Now直播臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3103
+#EXTINF:-1 group-title="HK",Now報價臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3104
+#EXTINF:-1 group-title="HK",NOW紫金國際臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3105
+#EXTINF:-1 group-title="HK",NOW華劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3106
+#EXTINF:-1 group-title="HK",NOW劇集臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3107
+#EXTINF:-1 group-title="HK",面包臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2186
+#EXTINF:-1 group-title="HK",耀才財經
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=818
+#EXTINF:-1 group-title="HK",RHK31
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=859
+#EXTINF:-1 group-title="HK",RHK32
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=858
+#EXTINF:-1 group-title="HK",RHK33
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=763
+#EXTINF:-1 group-title="HK",RHK34
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=764
+#EXTINF:-1 group-title="HK",RHK35
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=765
+#EXTINF:-1 group-title="TW",中天新聞[極速]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=794
+#EXTINF:-1 group-title="TW",中天新聞[高清]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=806
+#EXTINF:-1 group-title="TW",中天新聞循環
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=854
+#EXTINF:-1 group-title="TW",中天亞洲臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=836
+#EXTINF:-1 group-title="TW",中天娛樂
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2174
+#EXTINF:-1 group-title="TW",中天綜合
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2175
+#EXTINF:-1 group-title="TW",CN卡通
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2124
+#EXTINF:-1 group-title="TW",東森衛視
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2176
+#EXTINF:-1 group-title="TW",東森財經
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=830
+#EXTINF:-1 group-title="TW",東森超視臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=831
+#EXTINF:-1 group-title="TW",東森電影
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=785
+#EXTINF:-1 group-title="TW",東森戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2128
+#EXTINF:-1 group-title="TW",東森新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=823
+#EXTINF:-1 group-title="TW",東森洋片
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=784
+#EXTINF:-1 group-title="TW",東森綜合臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3160
+#EXTINF:-1 group-title="TW",TVBS AISA
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=839
+#EXTINF:-1 group-title="TW",TVBS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=821
+#EXTINF:-1 group-title="TW",TVBS NEWS
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2107
+#EXTINF:-1 group-title="TW",TVBS NEWS 網絡獨家
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=845
+#EXTINF:-1 group-title="TW",TVBS歡樂臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2108
+#EXTINF:-1 group-title="TW",TVBS 精采臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3154
+#EXTINF:-1 group-title="TW",TVBS綜藝臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3163
+#EXTINF:-1 group-title="TW",TVBS臺劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3164
+#EXTINF:-1 group-title="TW",Arirang
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2101
+#EXTINF:-1 group-title="TW",BBC Earth
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=847
+#EXTINF:-1 group-title="TW",CI 罪案偵查頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=783
+#EXTINF:-1 group-title="TW",CNEX紀實頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=774
+#EXTINF:-1 group-title="TW",ELTV英語新聞臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=776
+#EXTINF:-1 group-title="TW",History 歷史頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=782
+#EXTINF:-1 group-title="TW",i-Fun動漫臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=767
+#EXTINF:-1 group-title="TW",JET TV
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2104
+#EXTINF:-1 group-title="TW",LOVE Nature
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=781
+#EXTINF:-1 group-title="TW",MTV LIVE
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=780
+#EXTINF:-1 group-title="TW",愛爾達體育1臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=812
+#EXTINF:-1 group-title="TW",愛爾達體育2臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=813
+#EXTINF:-1 group-title="TW",愛爾達體育3臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2110
+#EXTINF:-1 group-title="TW",愛爾達戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2111
+#EXTINF:-1 group-title="TW",愛爾達影劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2112
+#EXTINF:-1 group-title="TW",愛爾達娛樂臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=769
+#EXTINF:-1 group-title="TW",愛爾達綜合
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2113
+#EXTINF:-1 group-title="TW",八大第一臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2114
+#EXTINF:-1 group-title="TW",八大戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2115
+#EXTINF:-1 group-title="TW",八大綜藝
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2183
+#EXTINF:-1 group-title="TW",八大精彩
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2184
+#EXTINF:-1 group-title="TW",采昌影劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2181
+#EXTINF:-1 group-title="TW",DaVinCi Learning達文西頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2182
+#EXTINF:-1 group-title="TW",非凡新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2130
+#EXTINF:-1 group-title="TW",公視1臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2178
+#EXTINF:-1 group-title="TW",公視2臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2131
+#EXTINF:-1 group-title="TW",公視戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=773
+#EXTINF:-1 group-title="TW",華視
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3161
+#EXTINF:-1 group-title="TW",華視新聞資訊臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=766
+#EXTINF:-1 group-title="TW",華藝綜合臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2162
+#EXTINF:-1 group-title="TW",韓國娛樂臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2164
+#EXTINF:-1 group-title="TW",寰宇財經
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2134
+#EXTINF:-1 group-title="TW",寰宇全球新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=856
+#EXTINF:-1 group-title="TW",寰宇臺灣新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=838
+#EXTINF:-1 group-title="TW",靖天國際
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2136
+#EXTINF:-1 group-title="TW",靖天日本臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=771
+#EXTINF:-1 group-title="TW",鏡新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=855
+#EXTINF:-1 group-title="TW",龍華電影臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=775
+#EXTINF:-1 group-title="TW",龍華偶像
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2138
+#EXTINF:-1 group-title="TW",龍華日韓臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=772
+#EXTINF:-1 group-title="TW",龍華戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2139
+#EXTINF:-1 group-title="TW",龍華洋片
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2140
+#EXTINF:-1 group-title="TW",美食星球
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=877
+#EXTINF:-1 group-title="TW",民視
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=798
+#EXTINF:-1 group-title="TW",民視第一臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=799
+#EXTINF:-1 group-title="TW",民視高清臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2144
+#EXTINF:-1 group-title="TW",民視旅遊臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=796
+#EXTINF:-1 group-title="TW",民視臺灣臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=797
+#EXTINF:-1 group-title="TW",民視新聞臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=850
+#EXTINF:-1 group-title="TW",年代新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2148
+#EXTINF:-1 group-title="TW",年代電視臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2147
+#EXTINF:-1 group-title="TW",三立LIVE
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=849
+#EXTINF:-1 group-title="TW",三立都會
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2149
+#EXTINF:-1 group-title="TW",三立臺灣臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2150
+#EXTINF:-1 group-title="TW",三立戲劇
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2151
+#EXTINF:-1 group-title="TW",三立新聞臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=857
+#EXTINF:-1 group-title="TW",三立綜合
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2152
+#EXTINF:-1 group-title="TW",臺視臺灣臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2153
+#EXTINF:-1 group-title="TW",臺視新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=852
+#EXTINF:-1 group-title="TW",臺視綜合臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2155
+#EXTINF:-1 group-title="TW",天映經典
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=861
+#EXTINF:-1 group-title="TW",天映頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=864
+#EXTINF:-1 group-title="TW",緯來戲劇·
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2156
+#EXTINF:-1 group-title="TW",緯來電影
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2157
+#EXTINF:-1 group-title="TW",緯來精彩
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2158
+#EXTINF:-1 group-title="TW",緯來日本
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2159
+#EXTINF:-1 group-title="TW",緯來體育2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2160
+#EXTINF:-1 group-title="TW",緯來綜合
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2161
+#EXTINF:-1 group-title="TW",幸福空間居家臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=768
+#EXTINF:-1 group-title="TW",亞洲旅遊臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2165
+#EXTINF:-1 group-title="TW",亞洲美食臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2166
+#EXTINF:-1 group-title="TW",十方法界
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2167
+#EXTINF:-1 group-title="TW",EYE旅遊臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2168
+#EXTINF:-1 group-title="TW",EYE戲劇臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2169
+#EXTINF:-1 group-title="TW",壹新聞
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=928
+#EXTINF:-1 group-title="TW",影迷數位電影臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=770
+#EXTINF:-1 group-title="TW",影迷數位紀實臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3151
+#EXTINF:-1 group-title="TW",豬哥亮歌廳秀
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3162
+#EXTINF:-1 group-title="TW",中視經典
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2170
+#EXTINF:-1 group-title="TW",中視高清
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2171
+#EXTINF:-1 group-title="TW",中視綜藝
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=816
+#EXTINF:-1 group-title="TW",中視新聞臺
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=851
+#EXTINF:-1 group-title="HK",澳門蓮花
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=793
+#EXTINF:-1 group-title="HK",澳門衛視
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=929
+#EXTINF:-1 group-title="HK",澳門資訊
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=882
+#EXTINF:-1 group-title="HK",澳視澳門
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=883
+#EXTINF:-1 group-title="CN",CCTV1
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3701
+#EXTINF:-1 group-title="CN",CCTV2
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3702
+#EXTINF:-1 group-title="CN",CCTV3
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3703
+#EXTINF:-1 group-title="CN",CCTV4
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3704
+#EXTINF:-1 group-title="CN",CCTV5
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3705
+#EXTINF:-1 group-title="CN",CCTV5plus
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3718
+#EXTINF:-1 group-title="CN",CCTV6
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3706
+#EXTINF:-1 group-title="CN",CCTV7
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3707
+#EXTINF:-1 group-title="CN",CCTV8
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3708
+#EXTINF:-1 group-title="CN",CCTV9
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3709
+#EXTINF:-1 group-title="CN",CCTV10
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3710
+#EXTINF:-1 group-title="CN",CCTV11
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3711
+#EXTINF:-1 group-title="CN",CCTV12
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3712
+#EXTINF:-1 group-title="CN",CCTV13
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3713
+#EXTINF:-1 group-title="CN",CCTV14
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3714
+#EXTINF:-1 group-title="CN",CCTV15
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3715
+#EXTINF:-1 group-title="CN",CCTV16
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3716
+#EXTINF:-1 group-title="CN",CCTV17
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3717
+#EXTINF:-1 group-title="CN",广东少儿
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3132
+#EXTINF:-1 group-title="CN",广东民生
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3133
+#EXTINF:-1 group-title="CN",广东影视
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3134
+#EXTINF:-1 group-title="CN",广东珠江
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3135
+#EXTINF:-1 group-title="CN",广东卫视
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3136
+#EXTINF:-1 group-title="CN",广东体育
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3126
+#EXTINF:-1 group-title="CN",广东新闻
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3956
+#EXTINF:-1 group-title="SPORTS",18臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3131
+#EXTINF:-1 group-title="SPORTS",NOW 668[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3123
+#EXTINF:-1 group-title="SPORTS",Now 641[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3168
+#EXTINF:-1 group-title="SPORTS",Now NBA[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3155
+#EXTINF:-1 group-title="SPORTS",NOW精選[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=891
+#EXTINF:-1 group-title="SPORTS",NOW SPORT PLUS[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3116
+#EXTINF:-1 group-title="SPORTS",Now Sports 英超1臺1080P[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=822
+#EXTINF:-1 group-title="SPORTS",Now Sports 英超1臺720P[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3117
+#EXTINF:-1 group-title="SPORTS",NOW GOLF2[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3124
+#EXTINF:-1 group-title="SPORTS",NOW GOLF3[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3125
+#EXTINF:-1 group-title="SPORTS",now-bein-sports1[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3156
+#EXTINF:-1 group-title="SPORTS",now-bein-sports2[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3157
+#EXTINF:-1 group-title="SPORTS",now-bein-sports3[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3158
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 1[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3109
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 2[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3110
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 3[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3111
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 4[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3112
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 5[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3113
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 6[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3114
+#EXTINF:-1 group-title="SPORTS",NOW SPORT 7[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3115
+#EXTINF:-1 group-title="SPORTS",緯來體育[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2160
+#EXTINF:-1 group-title="SPORTS",愛爾達體育1臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=812
+#EXTINF:-1 group-title="SPORTS",愛爾達體育2臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=813
+#EXTINF:-1 group-title="SPORTS",愛爾達體育3臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2110
+#EXTINF:-1 group-title="SPORTS",愛爾達體育4臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=3144
+#EXTINF:-1 group-title="SPORTS",博斯高球1臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2117
+#EXTINF:-1 group-title="SPORTS",博斯高球二臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2118
+#EXTINF:-1 group-title="SPORTS",博斯體育1臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2119
+#EXTINF:-1 group-title="SPORTS",博斯體育2臺[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2120
+#EXTINF:-1 group-title="SPORTS",博斯網球[體育]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2121
+#EXTINF:-1 group-title="GLOBAL SPORTS",SKY SPORT MOTOGP
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2333
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN 1 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2301
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN 1 HD [BK]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2302
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN 2 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2303
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN 2 HD [BK]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2304
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN LONGHORN NETWORK HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2306
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN NEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2307
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN SEC NETWORK HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2308
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPN U HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2309
+#EXTINF:-1 group-title="GLOBAL SPORTS", ESPNU COLLEGE SPORTS [LIVE-EVENT]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2310
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA TV FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2313
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2314
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2315
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 01
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2316
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 02
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2317
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 03
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2318
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 04
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2319
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 05
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2320
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 06
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2321
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 07
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2322
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 08
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2323
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 09
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2324
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 10
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2325
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 11
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2326
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 12
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2327
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 13
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2328
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 14
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2329
+#EXTINF:-1 group-title="GLOBAL SPORTS",NBA LIVE 15
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2330
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超|SKY SPORTS PREMIER LEAGUE HD 天空英超頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2557
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超|SKY SPORTS PREMIER LEAGUE FHD 天空英超頻道
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2570
+#EXTINF:-1 group-title="GLOBAL SPORTS",天空足球頻道 HEVC
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2589
+#EXTINF:-1 group-title="GLOBAL SPORTS",天空足球頻道 FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2572
+#EXTINF:-1 group-title="GLOBAL SPORTS",西甲LALIGA-HD西班牙足球甲級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2503
+#EXTINF:-1 group-title="GLOBAL SPORTS",西甲LALIGA-FHD西班牙足球甲級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2515
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超PREMIER SPORTS 1 英超蘇格蘭足球超級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2504
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超PREMIER SPORTS 2 英超蘇格蘭足球超級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2505
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超PREMIER SPORTS 1 FHD 英超蘇格蘭足球超級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2516
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超PREMIER SPORTS 2 FHD 英超蘇格蘭足球超級聯賽
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2517
+#EXTINF:-1 group-title="GLOBAL SPORTS",利物浦LFC TV HD 英國球會利物浦足球俱樂部
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2507
+#EXTINF:-1 group-title="GLOBAL SPORTS",利物浦LFC TV FHD 英國球會利物浦足球俱樂部
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2522
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超曼徹斯特聯隊MUTV HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2509
+#EXTINF:-1 group-title="GLOBAL SPORTS",英超曼徹斯特聯隊MUTV FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2521
+#EXTINF:-1 group-title="GLOBAL NEWS",ABC NEWS LIVE HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2009
+#EXTINF:-1 group-title="GLOBAL NEWS",ACCUWEATHER NOW FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2018
+#EXTINF:-1 group-title="GLOBAL NEWS",AL JAZEERA HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2035
+#EXTINF:-1 group-title="GLOBAL NEWS",BBC AMERICA HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2014
+#EXTINF:-1 group-title="GLOBAL NEWS",BBC WORLD NEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2012
+#EXTINF:-1 group-title="GLOBAL NEWS",BLOOMBERG HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2013
+#EXTINF:-1 group-title="GLOBAL NEWS",CBC NEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2038
+#EXTINF:-1 group-title="GLOBAL NEWS",CBS NEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2015
+#EXTINF:-1 group-title="GLOBAL NEWS",CGTN HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2022
+#EXTINF:-1 group-title="GLOBAL NEWS",CHEDDAR BUSINESS FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2026
+#EXTINF:-1 group-title="GLOBAL NEWS",CNA FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2032
+#EXTINF:-1 group-title="GLOBAL NEWS",CNBC HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2006
+#EXTINF:-1 group-title="GLOBAL NEWS",CNBC WORLD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2019
+#EXTINF:-1 group-title="GLOBAL NEWS",CNN FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2002
+#EXTINF:-1 group-title="GLOBAL NEWS",CNN HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2003
+#EXTINF:-1 group-title="GLOBAL NEWS",CNN INTERNATIONAL FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2004
+#EXTINF:-1 group-title="GLOBAL NEWS",C-SPAN 1 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2029
+#EXTINF:-1 group-title="GLOBAL NEWS",C-SPAN 2 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2030
+#EXTINF:-1 group-title="GLOBAL NEWS",C-SPAN 3 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2031
+#EXTINF:-1 group-title="GLOBAL NEWS",DW ENGLISH FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2021
+#EXTINF:-1 group-title="GLOBAL NEWS",EURONEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2017
+#EXTINF:-1 group-title="GLOBAL NEWS",FOX BUSINESS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2011
+#EXTINF:-1 group-title="GLOBAL NEWS",FOX Live NOW HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2037
+#EXTINF:-1 group-title="GLOBAL NEWS",FOX NEWS HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2001
+#EXTINF:-1 group-title="GLOBAL NEWS",FRANCE 24 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2024
+#EXTINF:-1 group-title="GLOBAL NEWS",HLN HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2007
+#EXTINF:-1 group-title="GLOBAL NEWS",MSNBC HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2005
+#EXTINF:-1 group-title="GLOBAL NEWS",NBC NEWS FHD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2023
+#EXTINF:-1 group-title="GLOBAL NEWS",NEWSMAX HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2010
+#EXTINF:-1 group-title="GLOBAL NEWS",NEWSNET
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2033
+#EXTINF:-1 group-title="GLOBAL NEWS",NEWSY HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2027
+#EXTINF:-1 group-title="GLOBAL NEWS",ONE AMERICAN NEWS NETWORK HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2016
+#EXTINF:-1 group-title="GLOBAL NEWS",PEOPLE TV HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2028
+#EXTINF:-1 group-title="GLOBAL NEWS",RT NEWS AMERICA
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2020
+#EXTINF:-1 group-title="GLOBAL NEWS",THE WEATHER CHANNEL HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2008
+#EXTINF:-1 group-title="GLOBAL NEWS",USA TODAY News HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2036
+#EXTINF:-1 group-title="GLOBAL NEWS",WGN 9 HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=2025
+#EXTINF:-1 group-title="MY",FOOD NETWORK HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1301
+#EXTINF:-1 group-title="MY",DISCOVERY ASIA [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1302
+#EXTINF:-1 group-title="MY",CELESTIAL CLASSIC MOVIES [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1303
+#EXTINF:-1 group-title="MY",WWE NETWORK [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1304
+#EXTINF:-1 group-title="MY",TVB JADE [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1307
+#EXTINF:-1 group-title="MY",TVB E-NEWS [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1308
+#EXTINF:-1 group-title="MY",TLC HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1309
+#EXTINF:-1 group-title="MY",SUN TV HD APAC [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1310
+#EXTINF:-1 group-title="MY",ONE HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1312
+#EXTINF:-1 group-title="MY",Oh!K HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1313
+#EXTINF:-1 group-title="MY",TVB CLASSIC [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1315
+#EXTINF:-1 group-title="MY",iQIYI HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1316
+#EXTINF:-1 group-title="MY",HITS MOVIES [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1317
+#EXTINF:-1 group-title="MY",HISTORY HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1318
+
+#EXTINF:-1 group-title="MY",DMAX HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1321
+#EXTINF:-1 group-title="MY",DISNEY JUNIOR [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1322
+
+#EXTINF:-1 group-title="MY",DISCOVERY HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1324
+#EXTINF:-1 group-title="MY",DISCOVERY SCI HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1325
+#EXTINF:-1 group-title="MY",CTI ASIA [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1326
+#EXTINF:-1 group-title="MY",CINEMAX HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1327
+#EXTINF:-1 group-title="MY",CRIME INVESTIGATION HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1328
+#EXTINF:-1 group-title="MY",CGTN [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1329
+#EXTINF:-1 group-title="MY",CELESTIAL MOVIES [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1330
+#EXTINF:-1 group-title="MY",AXN HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1331
+#EXTINF:-1 group-title="MY",AOD 352 [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1332
+#EXTINF:-1 group-title="MY",AOD 351 [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1333
+#EXTINF:-1 group-title="MY",ANIMAL PLANET HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1334
+#EXTINF:-1 group-title="MY",AOD 353 [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1335
+#EXTINF:-1 group-title="MY",XIAO TAI YANG [H]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1336
+#EXTINF:-1 group-title="MY",STAR VIJAY HD APAC [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1338
+#EXTINF:-1 group-title="MY",OASIS HD [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1339
+#EXTINF:-1 group-title="MY",AWANI [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1340
+#EXTINF:-1 group-title="MY",CRICKET [SP]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1341
+#EXTINF:-1 group-title="MY",ASTRO CRICKET HD
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1342
+#EXTINF:-1 group-title="MY",ZEE TAMIL HD APAC [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1343
+#EXTINF:-1 group-title="MY",CNA [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1344
+#EXTINF:-1 group-title="MY",HITS [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1345
+#EXTINF:-1 group-title="MY",RUGBY PASS TV [ASTRO]
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1346
+#EXTINF:-1 group-title="到期時間: 2024-03-21",到期時間: 2024-03-21
+http://m.xoxtvs.com/ott/?q=b4ee00bb16fe2f71a31695b3055e06c4&id=1
+
+
